@@ -1,3 +1,13 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [ColumnProperties.cs](./CS/Sample/ColumnProperties.cs) (VB: [ColumnProperties.vb](./VB/Sample/ColumnProperties.vb))
+* [CustomGridControl.cs](./CS/Sample/CustomGridControl.cs) (VB: [CustomGridControl.vb](./VB/Sample/CustomGridControl.vb))
+* [Form1.cs](./CS/Sample/Form1.cs) (VB: [Form1.vb](./VB/Sample/Form1.vb))
+* [Program.cs](./CS/Sample/Program.cs) (VB: [Program.vb](./VB/Sample/Program.vb))
+* [QuickColumnCustomizationEdit.cs](./CS/Sample/QuickColumnCustomizationEdit.cs) (VB: [QuickColumnCustomizationEdit.vb](./VB/Sample/QuickColumnCustomizationEdit.vb))
+* [SortableCheckedListBox.cs](./CS/Sample/SortableCheckedListBox.cs) (VB: [SortableCheckedListBox.vb](./VB/Sample/SortableCheckedListBox.vb))
+<!-- default file list end -->
 # How to customize columns order and visibility in a custom drop-down menu
 
 
